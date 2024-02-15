@@ -1,3 +1,5 @@
 # C_Monster_Trivia
 
-This is the README file.
+File = README.md
+
+Game Description: Trivia game about fighting "C Monsters" by answering C++ questions.
