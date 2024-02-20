@@ -1,0 +1,8 @@
+//
+// Created by Tyler McCoy on 2/20/24.
+//
+
+#ifndef C_MONSTER_TRIVIA_GAMELOGIC_H
+#define C_MONSTER_TRIVIA_GAMELOGIC_H
+
+#endif //C_MONSTER_TRIVIA_GAMELOGIC_H
