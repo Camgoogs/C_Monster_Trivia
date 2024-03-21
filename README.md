@@ -3,3 +3,5 @@
 File = README.md
 
 Game Description: Trivia game about fighting "C Monsters" by answering C++ questions.
+
+Authors: Tristan Merlin,
